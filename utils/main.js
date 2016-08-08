@@ -11,9 +11,9 @@ var fs = require('fs');
         for (var j in rows){
             var  arr = rows[j].split(":");
             if (arr[0] === "From"){
+                //Get rid of leading white space if applicable
                 if(arr[1].charAt(0) === " "){
                     singleMessage.from = arr[1].slice(1);
-                    console.log(arr[1].slice(1))
                 } else {
                     singleMessage.from = arr[1];
                 };
@@ -38,6 +38,5 @@ var fs = require('fs');
     	};
         fs.writeFileSync("results.json", JSON.stringify(messageInfo));
     };
-    console.log(messageInfo)
     return messageInfo;
 })('dataset');
