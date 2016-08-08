@@ -1,0 +1,11 @@
+{
+  "name": "Message Parser",
+  "version": "0.0.1",
+  "description": "Parse an archive of message files and create a single output file containing the date sent, the sender, and the subject for each of the messages processed",
+  "main": "app.js",
+  "author": "J. Vance",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
