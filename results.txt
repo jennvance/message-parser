@@ -1,0 +1,101 @@
+
+errorset/20110401_1000mercis_14457989_html.msg||Cuit Vapeur 29.90 euros, iPad 379 euros, GPS TOM TOM 139 euros... decouvrez VITE tous les bons plans du weekend !|01 Apr 2011 11
+errorset/20110401_1000mercis_14460189_html.msg|"Darty" <infos@contact-darty.com>||01 Apr 2011 14
+errorset/20110401_1000mercis_14461469_html.msg|"Darty" <infos@contact-darty.com>|Cuit Vapeur 29.90 euros, Nintendo 3DS 239 euros, GPS TOM TOM 139 euros... decouvrez VITE tous les bons plans du weekend !|01 Apr 2011 16
+errorset/20110401_1000mercis_14463849_html.msg|"PriceMinister HighTech" <news@newsletter-priceminister.com>|EXCEPTIONNEL ! 50 euros HT rembourses par HP sur l'achat de votre PC|01 Apr 2011 18
+errorset/20110401_2dialogesp_14463199_multialt.msg|Liberty Institute <postmaster@libertyinstitute.2dialog.com>|[TEST 1149] Victory for Tea Partier Arrested for Free Speech|Fri,  1 Apr 2011 09
+errorset/20110401_2dialogesp_14464229_multialt.msg|Liberty Institute <postmaster@libertyinstitute.2dialog.com>|[TEST 1151] Victory for Tea Partier Arrested for Free Speech|Fri,  1 Apr 2011 10
+errorset/20110401_aaa_14462459_html.msg|"AAA" <aaa@email.aaacarolinas.com>|SFC Test|Fri, 1 Apr 2011 11
+errorset/20110401_aaa_14462469_html.msg|"AAA" <aaa@email.aaacarolinas.com>|(SFC Test|Fri, 1 Apr 2011 11
+errorset/20110401_aamarketinginc_14456749_html.msg|MindsPay<survey@mindspaymails.com>|Paid Mail|Thu, 31 Mar 2011 23
+errorset/20110401_aamarketinginc_14462919_html.msg|MindsPay<survey@mindspaymails.com>|Paid Mail|Fri, 1 Apr 2011 10
+errorset/20110401_aamarketinginc_14463629_html.msg|Panda Research<survey@pandaresearch.com>|Paid Mail|Fri, 1 Apr 2011 11
+errorset/20110401_adestracom_14459669_multialt.msg|Mazda <mail.dobbkxbevwwrq@mazda.redwoodgroup.net>|Your new Mazda Zoom-Zoom now online!|Fri, 1 Apr 2011 12
+errorset/20110401_adestracom_14459679_multialt.msg|Mazda <mail.mkjguazirut@mazda.redwoodgroup.net>|Votre nouveau Mazda Vroum-Vroum en ligne!|Fri, 1 Apr 2011 12
+errorset/20110401_aeg_14462449_multialt.msg|"The Home Depot Center" <info@events.homedepotcenter.com>|Inside Track|Fri, 01 Apr 2011 09
+errorset/20110401_aeg_14463699_html.msg|"STAPLES Center" <info@enews.staplescenter.com>|Inside Track|Fri, 1 Apr 2011 12
+errorset/20110401_aeg_14465739_html.msg|"LA Galaxy" <enews@events.lagalaxy.com>|April Fool's Day Offer, Save up to 40% with no fees|Fri, 01 Apr 2011 12
+errorset/20110401_affinitylabs_14463869_multialt.msg|Wrong From Address <wrong@mail.com>||Fri, 1 Apr 2011 12
+errorset/20110401_affinitylabs_14463879_multialt.msg||TEST HTML|Fri, 1 Apr 2011 12
+errorset/20110401_affinitylabs_14463939_multialt.msg|MonsterLearning <education@m.programadvisor.com>|TEST HTML|Fri, 1 Apr 2011 12
+errorset/20110401_affinitylabs_14463949_multialt.msg|MonsterLearning <education@m.programadvisor.com>|TEST TEXT|Fri, 1 Apr 2011 12
+errorset/20110401_affinitylabs_14463989_multialt.msg|MonsterLearning <education@m.programadvisor.com>|TEST TEXT|Fri, 1 Apr 2011 12
+errorset/20110401_affinitylabs_14463999_multialt.msg|MonsterLearning <education@m.programadvisor.com>|TEST HTML|Fri, 1 Apr 2011 12
+errorset/20110401_alchemyworx_14461429_multialt.msg|=?utf-8?q?Aviva?= <aviva@avivaemail.co.uk>|(TEST-Multipart) =?utf-8?q?=5BRetention_In_Life_ezine=5Fhome=5F050411=5D_Introducing_Your_?=|Fri, 1 Apr 2011 14
+errorset/20110401_americancollegiatemarketing_14461849_multialt.msg|"StudentMags" <CustomerNotify@StudentMags.com>|April 2011 TPM Student w/Subs Spring Savings from StudentMags|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461859_multialt.msg|"MagazineLine" <CustomerNotify@MagazineLine.com>|April 2011 TPM Public No Subs Spring Savings from MagazineLine|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461869_multialt.msg|"NEA Magazine Service" <CustomerNotify@NEAMag.com>|April 2011 TPM NEA w/Subs, renew promoted personal Spring Savings from NEA Magazine Service|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461879_multialt.msg|"MagazineLine" <CustomerNotify@MagazineLine.com>|April 2011 TPM Public w/Subs Spring Savings from MagazineLine|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461889_multialt.msg|"StudentMags" <CustomerNotify@StudentMags.com>|April 2011 TPM Student No Subs Spring Savings from StudentMags|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461899_multialt.msg|"NEA Magazine Service" <CustomerNotify@NEAMag.com>|April 2011 TPM NEA w/Subs, renew promoted gift Spring Savings from NEA Magazine Service|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461909_multialt.msg|"NEA Magazine Service" <CustomerNotify@NEAMag.com>|April 2011 TPM NEA w/Subs, order promoted gift Spring Savings from NEA Magazine Service|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461919_multialt.msg|||
+errorset/20110401_americancollegiatemarketing_14461929_multialt.msg|"NEA Magazine Service" <CustomerNotify@NEAMag.com>|April 2011 TPM NEA w/Subs, order promoted personal Spring Savings from NEA Magazine Service|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461939_multialt.msg|<Amway@MagazineLine.com>|April 2011 TPM Amway w/Subs Spring Savings from MagazineLine|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461949_multialt.msg|"StudentMags" <CustomerNotify@StudentMags.com>||Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461959_multialt.msg|<Amway@MagazineLine.com>|April 2011 TPM Amway No Subs Spring Savings from MagazineLine|Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461969_multialt.msg|"StudentMags" <CustomerNotify@StudentMags.com>||Fri, 1 Apr 2011 10
+errorset/20110401_americancollegiatemarketing_14461979_multialt.msg|"AAUW MagazineLine" <CustomerNotify@AAUW.MagazineLine.com>||Fri, 1 Apr 2011 10
+errorset/20110401_ampere_14459569_html.msg|Fit&FabLiving Newsletter <email@fitandfabliving-newsletter.com>|4 Ways To Cook Healthy Mac 'N' Cheese|Fri, 01 Apr 2011 07
+errorset/20110401_ancestry_14463739_html.msg|"Ancestry.com Weekly Discovery" <Ancestry@email.ancestry.com>|PREVIEW|Fri, 01 Apr 2011 09
+errorset/20110401_avaazorg_14457779_html.msg|"Stephanie B - Avaaz.org" <avaaz@avaaz.org>|=?UTF-8?B?TGliaWE6IHJhcHRhZGEgcG9yIGRlbnVuY2lhciBxdWUgZnVlIHZpb2xhZGEhIA==?=|Fri, 01 Apr 2011 05
+errorset/20110401_avaazorg_14464239_html.msg|"Stephanie B - Avaaz.org" <avaaz@avaaz.org>|=?UTF-8?B?TGFhdCBJbWFuIGFsLU9iZWlkaSB2cmlq?=|Fri, 01 Apr 2011 12
+errorset/20110401_b2d1_14462079_multialt.msg|"=?iso-8859-1?B?Vm90cmUgQWdlbnQgR+lu6XJhbCBNTUE=?=" <newsletter@magzerotracas.com>|=?iso-8859-1?B?VG91dCBzYXZvaXIgc3VyIGxhIGRvbmF0aW9uLCBwculwYXJlciB1biBk?=|Fri, 01 Apr 2011 16
+errorset/20110401_beliefnet_14456049_html.msg|AT&T - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|Samsung Strive Package|Thu, 31 Mar 2011 18
+errorset/20110401_beliefnet_14461399_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|[SP] Grant Funding May Be Available for Top Online Colleges. Get|Fri,  1 Apr 2011 08
+errorset/20110401_beliefnet_14461449_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|Grant Funding May Be Available for Top Online Colleges. Get Free|Fri,  1 Apr 2011 08
+errorset/20110401_beliefnet_14461589_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>||Fri,  1 Apr 2011 08
+errorset/20110401_beliefnet_14461629_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>||Fri,  1 Apr 2011 08
+errorset/20110401_beliefnet_14462499_html.msg|The Bradford Exchange - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|[SP] Celebrate a Mother's Greatest Treasures - Faith and Family|Fri,  1 Apr 2011 09
+errorset/20110401_beliefnet_14462619_html.msg|The Bradford Exchange - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|[SP] Celebrate a Mother's Greatest Treasures - Faith and Family|Fri,  1 Apr 2011 09
+errorset/20110401_beliefnet_14464159_html.msg|Chicken Soup - Beliefnet Partner <specialoffers@mail.beliefnet.com>|[SP] The Art of Positive Thinking|Fri,  1 Apr 2011 10
+errorset/20110401_beliefnet_14464569_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|Get Free Info on Funding for Top Online Colleges|Fri,  1 Apr 2011 11
+errorset/20110401_beliefnet_14465249_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|Get Free Info on Funding for Top Online Colleges|Fri,  1 Apr 2011 11
+errorset/20110401_beliefnet_14465299_html.msg|Diabetic Connect Care Services - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|Low-Carb Recipes To Help Manage Your Diabetes|Fri,  1 Apr 2011 11
+errorset/20110401_beliefnet_14465379_html.msg|Announce - Beliefnet Sponsor <specialoffers@mail.beliefnet.com>|Get Free Info on Funding for Top Online Colleges|Fri,  1 Apr 2011 11
+errorset/20110401_bestofthebest_14459239_html.msg|"=?UTF-8?Q?William=20Hindmarch?=" <news@news.bestofthebest.co.uk>|=?UTF-8?Q?12=20hours=20left=20to=20win=20the=20Audi=20RS5=20for=20just=20=C2=A35?=|Fri, 01 Apr 2011 10
+errorset/20110401_bizrate_14462269_html.msg|"James at BizRate.co.uk" <shop@bizrate.co.uk>|[TEST] Videogames and accessories at bizrate|Fri, 01 Apr 2011 08
+errorset/20110401_bostoncom_14465809_multialt.msg|Boston Globe Media <advertising@globe.com>|=?UTF-8?Q?[SP]_This_way_to_a_great_Moth?=|Fri,  1 Apr 2011 12
+errorset/20110401_boydgamingcorporation_14463269_multialt.msg|Sam's Town - Shreveport <samstownshreveport@boydgaming.net>|You Have a 2 Night Hotel Stay|Fri, 01 Apr 2011 08
+errorset/20110401_boydgamingcorporation_14464309_multialt.msg|Blue Chip Casino Hotel & Spa <bluechip@boydgaming.net>|April Spa Special|Fri, 01 Apr 2011 09
+errorset/20110401_boydgamingcorporation_14465279_multialt.msg|Suncoast Hotel & Casino - Las Vegas <suncoast@boydgaming.net>|See What's Happening with our Table Games!|Fri, 01 Apr 2011 10
+errorset/20110401_boydgamingcorporation_14465409_multialt.msg|Blue Chip Casino Hotel & Spa <bluechip@boydgaming.net>|You've Won Slot Dollars!|Fri, 01 Apr 2011 10
+errorset/20110401_boydgamingcorporation_14465749_multialt.msg|Dania Jai Alai <daniajaialai@boydgaming.net>|April Poker Special|Fri, 01 Apr 2011 11
+errorset/20110401_brierleypartners_14463439_html.msg|"GameStop PowerUp Rewards" <gsnews@gamestop-email.com>|Something is popping up for your birthday!|Fri, 01 Apr 2011 10
+errorset/20110401_brierleypartners_14464039_html.msg|"GameStop PowerUp Rewards" <gsnews@gamestop-email.com>|Corey, you have  <xsl|Fri, 01 Apr 2011 11
+errorset/20110401_brookstonedream_14459319_multialt.msg|=?iso-8859-1?B?QnJvb2tzdG9uZQ==?= <brookstone@offers.brookstone.com>|=?iso-8859-1?B?U0FWRSBUT0RBWS4gLiAuSHVnZSBTYXZpbmdzIG9uIEJyb29rc3RvbmUgU2FsZSBhbmQgQ2xlYXJhbmNl?=|Fri, 01 Apr 2011 06
+errorset/20110401_brookstonedream_14459329_multialt.msg|=?iso-8859-1?B?QnJvb2tzdG9uZQ==?= <brookstone@offers.brookstone.com>|=?iso-8859-1?B?U0FWRSBUT0RBWS4gLiAuSHVnZSBTYXZpbmdzIG9uIEJyb29rc3RvbmUgU2FsZSBhbmQgQ2xlYXJhbmNl?=|Fri, 01 Apr 2011 06
+errorset/20110401_buyseasons_14464139_html.msg|"Kristin Pirazzini" <kristinp@buyseasons.com>|[TEST SEND]|Fri, 01 Apr 2011 10
+errorset/20110401_cabestan_14456669_multialt.msg|"=?iso-8859-1?B?T2ZmZXJ1bSB2aWEgQ2x1Yk9mZXJ0aW5n?= " <socios@newsletter.cluboferting.com>|=?iso-8859-1?B?LCAtOTAlIGRlIGR0by4gZW4gbG9zIG1lam9yZXMgcGxhbmVzIGRlIG8=?= =?iso-8859-1?B?Y2lv?=|01 Apr 2011 03
+errorset/20110401_cci_14464449_multialt.msg|BlackPlanet News <blackplanet@mail.blackplanet.com>|How To Be Positive, Canton Jones Premiere, Serena Too Sexy|Fri, 01 Apr 2011 12
+errorset/20110401_charlesschwab_14461109_html.msg|"Charles Schwab & Co., Inc." <online.service@schwab.com>|Schwab clients only|Fri, 01 Apr 2011 09
+errorset/20110401_citibanksingaporelimited_14456239_multialt.msg|customer.service@citicorp.com|Citi Alerts|31/03/11
+errorset/20110401_citibanksingaporelimited_14456489_multialt.msg|customer.service@citicorp.com|Citi Alerts|31/03/11
+errorset/20110401_citibanksingaporelimited_14456499_multialt.msg|customer.service@citicorp.com|Citi Alerts|31/03/11
+errorset/20110401_citibanksingaporelimited_14456509_multialt.msg|customer.service@citicorp.com|Citi Alerts|31/03/11
+errorset/20110401_clevelandioa_14462969_multialt.msg|"The Cleveland Institute of Art" <alumni@communications.cia.edu>|=?utf-8?B?VGhlIENsZXZlbGFuZCBJbnN0aXR1dGUgb2YgQXJ0IEFwcmlsIDIwMTEgZS1OZXdzbGV0dGVy?=|1 Apr 2011 11
+errorset/20110401_cloud9anal_14464579_multialt.msg|"Cloud9 Analytics" <juliana.perino@cloud9analytics.com>|TEST|Fri, 01 Apr 2011 12
+errorset/20110401_cnn_14457959_multialt.msg|"Robin Meade of HLN" <cnn@mail.cnn.com>|TEST|Fri, 1 Apr 2011 05
+errorset/20110401_cobaltgroup_14456019_html.msg|Sunnyvale Ford Lincoln Mercury <sunnyford.10162425@dealer.onstation.com>|[SAMPLE] We will pay your service Sales Tax through April 30th!|Fri, 1 Apr 2011 00
+errorset/20110401_cobaltgroup_14460789_html.msg|Hometown Motors <bshields.10162425@dealer.onstation.com>|[SAMPLE] 02-719274 Body Shop Repairs|Fri, 1 Apr 2011 13
+errorset/20110401_cobaltgroup_14461619_html.msg|Boucher Hyundai <boucher2.10162425@dealer.onstation.com>|[SAMPLE] Your Service Coupons|Fri, 1 Apr 2011 14
+errorset/20110401_cobaltgroup_14462119_html.msg|Best Chevrolet <bestchevy1.10162425@dealer.onstation.com>|[SAMPLE] Enter to win with Diamonds & Dreams!|Fri, 1 Apr 2011 14
+errorset/20110401_cobaltgroup_14462279_html.msg|Purifoy Chevrolet <purifoy1.10162425@dealer.onstation.com>|[SAMPLE] Corvette Service Specials from Purifoy|Fri, 1 Apr 2011 15
+errorset/20110401_cobaltgroup_14462859_html.msg|Dorsch Ford Lincoln Mercury Kia <dorsch1.10162425@dealer.onstation.com>|[SAMPLE] Save up to $140 this month...|Fri, 1 Apr 2011 15
+errorset/20110401_cobaltgroup_14463229_html.msg|Dave Delaney's Columbia Buick GMC <davedel1.10162425@dealer.onstation.com>|[SAMPLE] Save up to $75 this month...|Fri, 1 Apr 2011 15
+errorset/20110401_cobaltgroup_14464029_html.msg|Hometown Motors <klongfield.10162425@dealer.onstation.com>|[SAMPLE] 04-719314-2011 Chevy April DAP #1|Fri, 1 Apr 2011 16
+errorset/20110401_commcorp_14459209_multialt.msg|"Steven Parratt" <westdorset@communicatoremail.com>|Dorset Email Test|1 Apr 2011 10
+errorset/20110401_commcorp_14459489_multialt.msg|claire <retaildemo@communicatoremail.com>|test this email|1 Apr 2011 11
+errorset/20110401_commcorp_14460709_multialt.msg|"Floris London" <floris@news.florislondon.com>|Introducing The Floris New Look|1 Apr 2011 13
+errorset/20110401_commcorp_14460739_multialt.msg|"Barbour EHS" <UBM-Barbour@workcast-email.net>|Register now for the next Barbour webinar|1 Apr 2011 13
+errorset/20110401_commcorp_14462929_multialt.msg|"Nimlok Limited" <nimlok@communicatoremail.com>|Nimlok stands for... ideas & innovation|1 Apr 2011 15
+errorset/20110401_compostmarketingab_14459379_multialt.msg|{CARMA TEST} Test <from@test.carmamail.com>|ComHem Senaste Nyheterna|Fri, 1 Apr 2011 13
+errorset/20110401_comscore_14462129_multialt.msg|PermissionResearch <kjones@permissionresearch.com>|PermissionResearch's Newest Survey!|1 Apr 2011 10
+errorset/20110401_comscore_14462369_multialt.msg|VoiceFive <bhowell@voicefive.com>|VoiceFive's Microsoft Follow-up Survey!|1 Apr 2011 11
+errorset/20110401_comscore_14462479_multialt.msg|OpinionSquare <chall@opinionsquare.com>|OpinionSquare's Market Research Survey!|1 Apr 2011 11
+errorset/20110401_comscore_14465659_multialt.msg|RelevantKnowledge <cdavis@relevantknowledge.com>|Reminder - RelevantKnowledge's Internet Habits Survey!|1 Apr 2011 14
+errorset/20110401_comscore_14465679_multialt.msg|PremierOpinion <sbrown@premieropinion.com>|Reminder - PremierOpinion's Internet Habits Survey!|1 Apr 2011 14
+errorset/20110401_comscore_14466049_multialt.msg|OpinionSquare <chall@opinionsquare.com>|OpinionSquare's Internet Activities Survey!|1 Apr 2011 14
+errorset/20110401_comscore_14466079_multialt.msg|PremierOpinion <sbrown@premieropinion.com>|PremierOpinion's Internet Activities Survey!|1 Apr 2011 14
+errorset/20110401_corel_14460129_html.msg|Corel <news@email1-corel.com>|Second subject|Fri, 01 Apr 2011 05
+errorset/20110401_corel_14460139_html.msg|Corel <news@email1-corel.com>|PREVIEW|Fri, 01 Apr 2011 05
